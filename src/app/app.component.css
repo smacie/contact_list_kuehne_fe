@@ -61,15 +61,6 @@ svg#contacts {
   top: -10px;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 8px 0;
-}
-
 p {
   margin: 0;
 }
@@ -321,10 +312,19 @@ svg#clouds {
   bottom: 20px;
 }
 
-.td-image{
-  width: 60px;
+.td-id{
+  width: 50px;
 }
+
+.td-image{
+  width: 80px;
+}
+
 .td-fullName{
   align-content: start;
   width: 200px;
+}
+
+.table {
+  width: 100%;
 }
